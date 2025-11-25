@@ -668,7 +668,7 @@ TEST: n_codigos_menor_ocupacion_por_destino--> n=5
           Winnipeg: ['IB123']
 ```
 
-__Ejercicio 40__. 
+__Ejercicio 39__. 
 `fecha_mayor_incremento_pasajeros`: Dada una lista de tuplas de tipo `Vuelo` devuelve cuál es la fecha con mayor incremento del número de pasajeros respecto del día anterior. El concepto del día anterior se refiere al anterior que hubo vuelos.
 _Resultados esperados_
 ```python
