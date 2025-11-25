@@ -331,6 +331,7 @@ TEST: total_pasajeros_por_destino
 
 __Ejercicio 24__. 
 `recaudacion_vuelos_por_destino`: Dada una lista de tuplas de tipo `Vuelo`, devuelve un diccionario que relaciona cada destino con la recaudación de los vuelos a ese destino.
+
 _Resultados esperados_
 ```python
 TEST: recaudacion_vuelos_por_destino
