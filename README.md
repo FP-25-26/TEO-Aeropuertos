@@ -1,6 +1,7 @@
 # Aeropuertos
 
 Autor: José C. Riquelme
+
 Revisores: Jorge García, Toñi Reina
 
 Disponemos de un fichero de texto con la información de los vuelos que salen de un determinado aeropuerto, de forma que cada vuelo ocupa una línea del fichero separándose los campos por comas. Es decir, la típica estructura CSV. Las primeras líneas del fichero son las siguientes:
